@@ -8,3 +8,5 @@ It contains various tables and the Er diagram is in the photos above.
 
 The project had been done long before uploading here on github so not all the sql files could be recovered.
 However, all explanations and codes are presented in the word document.
+
+Code is in oracle_ sql
